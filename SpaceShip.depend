@@ -121,7 +121,7 @@
 1594906894 c:\users\edwin salcedo\desktop\spaceship\fondo.h
 	<allegro.h>
 
-1595115895 source:c:\users\edwin salcedo\desktop\spaceship\game.cpp
+1600172009 source:c:\users\edwin salcedo\desktop\spaceship\game.cpp
 	"game.h"
 	"nave.h"
 
@@ -135,7 +135,7 @@
 	"bala.h"
 	"asteroide.h"
 
-1595008866 c:\users\edwin salcedo\desktop\spaceship\menu.h
+1600196189 c:\users\edwin salcedo\desktop\spaceship\menu.h
 	<allegro.h>
 
 1595013041 c:\users\edwin salcedo\desktop\spaceship\nave.h

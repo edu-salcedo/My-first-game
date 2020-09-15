@@ -9,7 +9,6 @@ Nave::Nave()
     y=(SCREEN_H/1.2);
     ima_nave=load_bitmap("imagen/nave.bmp",NULL);
     ima_vida=load_bitmap("imagen/b_vida.bmp",NULL);
-    explo = load_bitmap("imagen/explosion.bmp",NULL);
     vida=100;
 }
 

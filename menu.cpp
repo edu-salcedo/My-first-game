@@ -70,8 +70,3 @@ void Menu::vidas(BITMAP*buffer, int op)
         }
 
 }
-
-void Menu::explocion(BITMAP*buffer,int x,int y)
-{
-
-}

@@ -22,6 +22,5 @@ public:
     void gameover(BITMAP*);
     void nivel(BITMAP*);
     void vidas(BITMAP*,int);
-    void explocion(BITMAP*,int,int);
 
 };

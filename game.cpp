@@ -208,14 +208,14 @@ void Game::level()
         break;
 
     case 2:
-        for (int i=0; i<10; i++)
+        for (int i=0; i<8; i++)
         {
             int p= rand()%550;                      ///creo numeros aleatorios y las asigno a la cordenada "Y" de los enemigos
             int c=rand()%200;
             enemy.push_back(new Enemigo(p,c));   /// crea una lista de los enemigos
             numenemigo++;
         }
-         for (int j=0; j<5; j++)
+         for (int j=0; j<3; j++)
          {
              int n= 80+rand()%90;                      ///creo numeros aleatorios y las asigno a la cordenada "Y" de los enemigos
              aste.push_back(new Asteroide(n*j,(j*200)*-1));
